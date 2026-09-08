@@ -1,0 +1,258 @@
+{
+    
+  "meta": {
+    "title": "Bastione — Lounge und Restaurant | Riva del Garda",
+    "description": "Bastione Lounge und Restaurant über dem Gardasee in Riva del Garda, Trentino."
+  },
+
+  "navigation": {
+    "view": "Aussicht",
+    "experience": "Erlebnis",
+    "cuisine": "Küche",
+    "menu": "Menü",
+    "place": "Der Ort",
+    "moments": "Momente",
+    "events": "Events",
+    "visit": "Besuch"
+  },
+  
+  "hero": {
+    "titlePrefix": "Ein Tisch",
+    "titleLake": "über dem",
+    "titleGarda": "Gardasee",
+    "eyebrow": "Lounge und Restaurant",
+    "title": "Ein Tisch über dem Gardasee.",
+    "location": "Limone sul Garda · Gardasee · Italien",
+    "description": "Ein Ort, an dem italienische Küche, Gastfreundschaft und die Schönheit des Gardasees zusammenkommen.",
+    "primaryCta": "Tisch reservieren",
+    "secondaryCta": "Al Buongusto entdecken",
+    "scroll": "Entdecken"
+  },
+  
+  "view": {
+    "eyebrow": "Der Ausblick",
+    "explore": "Entdecken",
+    "title": "Der Gardasee aus einer anderen Perspektive",
+    "description": "Eine Panoramaterrasse über Riva del Garda, wo die Landschaft Teil des Erlebnisses wird.",
+    "lakeCaption": "Riva del Garda · Gardasee",
+    "lakeDetail": "Von der Terrasse des Bastione",
+    "cityCaption": "Riva del Garda · Historisches Zentrum",
+    "cityDetail": "Trentino · Italien",
+    "locationLabel": "Die Lage",
+    "locationText": "Zwischen See, Bergen und der historischen Altstadt von Riva del Garda."
+  },
+
+  "experience": {
+    "eyebrow": "Seit 1507",
+    "title": "Erbaut zur Verteidigung. Restauriert für Gastfreundschaft.",
+    "text": "1507 errichtete die Republik Venedig an den Hängen des Monte Rocchetta eine steinerne Bastion zum Schutz von Riva del Garda und seines Hafens. Die venezianische Herrschaft endete, bevor die Festung je in eine Schlacht verwickelt wurde, und jahrhundertelang lag sie als Ruine über dem See. In den 1950er-Jahren verband eine Panoramabahn sie wieder mit der Stadt, 2008 gab eine sorgfältige Restaurierung sie Riva zurück — dieselbe Terrasse, auf der Bastione heute Küche zwischen Trentino und Mittelmeer serviert, vom Frühstück bis zum Absacker.",
+    "year": "1507",
+    "nodes": {
+      "arrive": {
+        "title": "Ankommen",
+        "text": "Lassen Sie den See hinter sich und beginnen Sie den Weg nach oben.",
+        "detail": "Min. · durch den Wald"
+      },
+      "view": {
+        "title": "Blicken",
+        "text": "Riva, der See und die Berge öffnen sich vor Ihnen von oben.",
+        "detail": "m · über dem See"
+      },
+      "taste": {
+        "title": "Genießen",
+        "text": "Aromen aus dem Trentino treffen bei Tisch auf mediterrane Inspiration.",
+        "detail": "Berge · Mittelmeer"
+      },
+      "aperitivo": {
+        "title": "Aperitivo",
+        "text": "Bleiben Sie für das Licht, den Ausblick und den langsamen Übergang in den Abend.",
+        "detail": "vom Tag · in den Abend"
+      },
+      "stay": {
+        "title": "Bleiben",
+        "text": "Nehmen Sie sich Zeit. Frühstück, Mittagessen, Aperitivo, Dinner und After-Dinner.",
+        "detail": "den ganzen Tag · bis in die Nacht"
+      }
+    }
+  },
+
+  "moments": {
+    "eyebrow": "Momente im Bastione",
+    "title": "Momente über dem See",
+    "description": "Kommen Sie ins Bastione und lassen Sie diesen Moment Teil Ihrer Geschichte werden. Verbringen Sie einen Nachmittag bei gutem Essen und anregenden Gesprächen hoch über dem Gardasee, erleben Sie, wie die Berge im goldenen Abendlicht erstrahlen, oder genießen Sie einen Drink, während unter Ihnen die Lichter von Riva del Garda zu funkeln beginnen. Hier bietet jeder Tisch mehr als nur einen Ausblick – er schenkt einen Moment, den man nicht vergisst. Kommen Sie, lassen Sie den Alltag hinter sich und erleben Sie einen Augenblick, der in Erinnerung bleibt.",
+
+    "cards": {
+      "01": {
+        "label": "Riva von oben",
+        "meta": "Der Ausblick"
+      },
+      "02": {
+        "label": "Ein Tisch mit Aussicht",
+        "meta": "Bastione"
+      },
+      "03": {
+        "label": "Aperitivo über dem See",
+        "meta": "Am späten Nachmittag"
+      },
+      "04": {
+        "label": "Wenn die Berge golden werden",
+        "meta": "Golden Hour"
+      },
+      "05": {
+        "label": "Dinner mit Aussicht",
+        "meta": "Im Bastione"
+      },
+      "06": {
+        "label": "Ein Toast auf den Gardasee",
+        "meta": "Aperitivo"
+      },
+      "07": {
+        "label": "Wenn die Lichter angehen",
+        "meta": "Riva nach Sonnenuntergang"
+      },
+      "08": {
+        "label": "Ein Moment zu zweit",
+        "meta": "Über dem Gardasee"
+      },
+      "09": {
+        "label": "Das Bastione",
+        "meta": "Monte Rocchetta"
+      }
+    },
+
+    "note": "Bewahre den Moment.",
+    "footer": "Jeder Besuch hinterlässt eine Erinnerung..."
+  },
+
+  "cuisine": {
+    "eyebrow": "Die Küche",
+    "title": "Berge treffen Mittelmeer",
+    "description": "Die kräftigen Aromen des Trentino treffen auf den frischen Geist des Mittelmeers. Lokale Zutaten aus den Bergen, Fisch aus dem See, Almkäse und traditionelle Wurstwaren werden mit einer zeitgemäßen Note neu interpretiert. Jedes Gericht vereint den Charakter der Berge mit der Leichtigkeit des Südens. Eine Küche, geprägt von der Landschaft, den Jahreszeiten und dem Ausblick.",
+    "panels": {
+      "lake": {
+        "title": "Der See",
+        "text": "Forelle, Saibling und die reinen Aromen des Gardasees."
+      },
+      "mountain": {
+        "title": "Der Berg",
+        "text": "Speck, Almkäse und Wild aus den Tälern des Trentino."
+      },
+      "mediterranean": {
+        "title": "Das Mittelmeer",
+        "text": "Öl, Zitrusfrüchte und Meeresfrüchte für eine Tafel mit Blick nach Süden."
+      },
+      "cellar": {
+        "title": "Der Weinkeller",
+        "text": "Weine aus dem Trentino und darüber hinaus, sorgfältig zu jedem Gang ausgewählt."
+      }
+    },
+    "dishes": {
+      "bastione": { "name": "Bastione", "description": "Fior di latte, Trentingrana-Mousse, Speck Alto Adige und Walnüsse." },
+      "lagoAffumicato": { "name": "Lago Affumicato", "description": "Saibling aus dem Gardasee, Polenta aus Storo und ein Hauch Kirschholzrauch." },
+      "saporeDiLago": { "name": "Sapore di Lago", "description": "Spaghettoni, Sardinen aus dem Gardasee, Pinienkerne, Brotcrunch und Rosinen." },
+      "ilNostroMare": { "name": "Il Nostro Mare", "description": "Spaghetti, gelbe und rote Datterini-Tomaten und Meeresfrüchte." },
+      "cozzePatateBaccala": { "name": "Cozze, Patate e Baccalà", "description": "Grüne Paccheri, Limette, Kartoffel-Muschel-Creme, Kabeljau und knusprige Haut." },
+      "ilPolpoENero": { "name": "Il Polpo è Nero", "description": "Gegrillter Oktopus, Burrata, confierte Datterini und Petersiliensauce." },
+      "duettoTrentino": { "name": "Duetto Trentino", "description": "Eine Auswahl regionaler Wurst- und Käsespezialitäten." },
+      "terraDEstate": { "name": "Terra d'Estate", "description": "48 Stunden mariniertes Rindercarpaccio, Gorgonzola-Mousse und Polenta aus Storo." },
+      "blackAngus": { "name": "Black Angus", "description": "Roastbeef, Safran-Rosmarin-Kartoffelcreme, gegrillte Pilze." },
+      "reginaMargherita": { "name": "Regina Margherita", "description": "San Marzano, Büffelmozzarella, Parmaschinken und Basilikum." },
+      "tonnetto": { "name": "Tonnetto", "description": "San Marzano, Fior di latte, kurz gebratener Thunfisch und geschmorte Zwiebeln." },
+      "diavola": { "name": "Diavola", "description": "San Marzano D.O.P., Mozzarella Fior di Latte und scharfe Levoni-Salami." }
+    }
+  },
+
+  "menu": {
+    "eyebrow": "Menü-Favoriten",
+    "title": "Den Moment genießen",
+    "cta": "Menü entdecken",
+    "note": "Die Karte ändert sich mit den Jahreszeiten und dem Marktangebot.",
+    "items": {
+      "01": {
+        "name": "Terra d'Estate",
+        "description": "48 Stunden mariniertes Rindercarpaccio, Gorgonzola-Mousse und Polenta aus Storo.",
+        "price": "€19"
+      },
+      "02": {
+        "name": "Lago Affumicato",
+        "description": "Saibling aus dem Gardasee, Polenta aus Storo und ein Hauch Kirschholzrauch.",
+        "price": "€24"
+      },
+      "03": {
+        "name": "Sapore di Lago",
+        "description": "Spaghettoni, Sardinen aus dem Gardasee, Pinienkerne, Brotcrunch und Rosinen.",
+        "price": "€22"
+      },
+      "04": {
+        "name": "Black Angus",
+        "description": "Roastbeef, Safran-Rosmarin-Kartoffelcreme, gegrillte Pilze.",
+        "price": "€32"
+      },
+      "05": {
+        "name": "Regina Margherita",
+        "description": "San Marzano, Büffelmozzarella, Parmaschinken und Basilikum.",
+        "price": "€16"
+      }
+    }
+  },
+
+  "place": {
+    "eyebrow": "Der Ort",
+    "title": "Geschichte über dem See",
+    "description": "Ein historischer Ort, verwandelt in ein zeitgemäßes Erlebnis.",
+    "cta": "Terrasse entdecken"
+  },
+
+  "events": {
+    "eyebrow": "Veranstaltungen",
+    "title": "Machen Sie Ihren Moment unvergesslich",
+    "description": "Feiern, private Dinner und besondere Erlebnisse.",
+    "cta": "Events entdecken",
+    "types": {
+      "privateDinners": "Private Dinner",
+      "celebrations": "Feiern",
+      "aperitivo": "Exklusiver Aperitivo"
+    }
+  },
+
+  "visit": {
+    "eyebrow": "Bastione besuchen",
+    "title": "Kommen Sie hinauf",
+    "description": "Erreichen Sie Bastione über Riva del Garda und lassen Sie schon den Weg Teil des Erlebnisses werden.",
+    "locationLabel": "Wo wir sind",
+    "address": "Via Monte Oro, 26 · Riva del Garda · Trentino, Italien",
+    "directions": "Route anzeigen"
+  },
+
+  "footer": {
+    "brandTitle": "Bastione",
+    "subtitle": "Lounge und Restaurant",
+    "email": "info@bastione.eu",
+    "phone": "+39 0464 07 68 61",
+    "followUs": "Folgen Sie uns",
+    "legal": "Erreichen Sie Bastione mit dem Panoramalift von der Via Monte Oro oder zu Fuß über den malerischen Weg SAT 404. Dalila s.r.l.s. | Via Garberie, 29 – 38062 Arco TN – P.IVA 02581570229",
+    "credit": "Mit Liebe gestaltet von"
+  },
+
+  "reservation": {
+    "eyebrow": "Reservierungen",
+    "title": "Tisch reservieren",
+    "description": "Wählen Sie den für Sie bequemsten Weg und kontaktieren Sie uns direkt.",
+    "close": "Schließen",
+    "email": {
+      "title": "Per E-Mail reservieren",
+      "description": "Senden Sie uns Ihren Wunschtermin, die Uhrzeit und die Anzahl der Gäste."
+    },
+    "phone": {
+      "title": "Telefonisch reservieren",
+      "description": "Rufen Sie uns direkt an, um Ihren Tisch zu reservieren."
+    },
+    "contacts": {
+      "title": "Kontakt",
+      "description": "Hier finden Sie unsere Adresse und alle Kontaktdaten.",
+      "label": "Offizielle Kontaktdaten"
+    },
+    "note": "Wir empfehlen, insbesondere für Abende und besondere Anlässe, im Voraus zu reservieren."
+  }
+    
+}

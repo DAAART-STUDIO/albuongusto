@@ -1,0 +1,258 @@
+{
+  
+  "meta": {
+    "title": "Bastione — Lounge e Ristorante | Riva del Garda",
+    "description": "Bastione Lounge e Ristorante sopra il Lago di Garda a Riva del Garda, Trentino."
+  },
+
+  "navigation": {
+    "view": "Vista",
+    "experience": "Esperienza",
+    "cuisine": "Cucina",
+    "menu": "Menu",
+    "place": "Il luogo",
+    "moments": "Momenti",
+    "events": "Eventi",
+    "visit": "Visita"
+  },
+  
+  "hero": {
+    "titlePrefix": "Un tavolo sopra",
+    "titleLake": "il Lago",
+    "titleGarda": "di Garda",
+    "eyebrow": "Lounge e Ristorante",
+    "title": "Un tavolo sopra il Lago di Garda.",
+    "location": "Limone sul Garda · Lago di Garda · Italia",
+    "description": "Un luogo dove la cucina italiana, l'ospitalità e la bellezza del Lago di Garda si incontrano.",
+    "primaryCta": "Prenota un tavolo",
+    "secondaryCta": "Scopri Al Buongusto",
+    "scroll": "Scopri"
+  },
+  
+  "view": {
+    "eyebrow": "La vista",
+    "explore": "Scopri",
+    "title": "Il Lago di Garda da un'altra prospettiva",
+    "description": "Una terrazza panoramica sopra Riva del Garda, dove il paesaggio diventa parte dell'esperienza.",
+    "lakeCaption": "Riva del Garda · Lago di Garda",
+    "lakeDetail": "Dalla terrazza del Bastione",
+    "cityCaption": "Riva del Garda · Centro storico",
+    "cityDetail": "Trentino · Italia",
+    "locationLabel": "La posizione",
+    "locationText": "Tra il lago, le montagne e il centro storico di Riva del Garda."
+  },
+
+  "experience": {
+    "eyebrow": "Dal 1507",
+    "title": "Costruito per difendere. Restaurato per accogliere.",
+    "text": "Nel 1507 la Repubblica di Venezia fece erigere un bastione di pietra sulle pendici del Monte Rocchetta, a guardia di Riva del Garda e del suo porto. Il dominio veneziano si concluse prima che la fortezza vedesse battaglia, e per secoli rimase in rovina sopra il lago. Una funivia panoramica la ricollegò alla città negli anni '50, e un attento restauro la restituì a Riva nel 2008 — la stessa terrazza dove oggi Bastione propone una cucina tra Trentino e Mediterraneo, dalla colazione al dopocena.",
+    "year": "1507",
+    "nodes": {
+      "arrive": {
+        "title": "Arriva",
+        "text": "Lascia il lago alle spalle e inizia il percorso verso l'alto.",
+        "detail": "min · attraverso il bosco"
+      },
+      "view": {
+        "title": "Guarda",
+        "text": "Riva, il lago e le montagne si aprono davanti a te dall'alto.",
+        "detail": "m · sopra il lago"
+      },
+      "taste": {
+        "title": "Assaggia",
+        "text": "I sapori del Trentino incontrano l'ispirazione mediterranea a tavola.",
+        "detail": "montagna · mediterraneo"
+      },
+      "aperitivo": {
+        "title": "Aperitivo",
+        "text": "Resta per la luce, la vista e il lento passaggio verso la sera.",
+        "detail": "dal giorno · alla sera"
+      },
+      "stay": {
+        "title": "Resta",
+        "text": "Prenditi il tuo tempo. Colazione, pranzo, aperitivo, cena e dopocena.",
+        "detail": "tutto il giorno · fino a notte"
+      }
+    }
+  },
+
+  "moments": {
+    "eyebrow": "Momenti al Bastione",
+    "title": "Momenti sopra il lago",
+    "description": "Vieni al Bastione e lascia che questo momento diventi parte della tua storia. Trascorri un pomeriggio condividendo buon cibo e conversazioni sopra il Lago di Garda, guarda le montagne tingersi d’oro al tramonto o fermati per un drink mentre le luci di Riva del Garda iniziano a brillare sotto di te. Qui, ogni tavolo ha una vista, ogni tramonto diventa un ricordo e ogni visita può trasformarsi in qualcosa di indimenticabile. Vieni, rallenta e vivi un momento che vorrai ricordare.",
+
+    "cards": {
+      "01": {
+        "label": "Riva dall’alto",
+        "meta": "La vista"
+      },
+      "02": {
+        "label": "Una tavola con vista",
+        "meta": "Bastione"
+      },
+      "03": {
+        "label": "Aperitivo sopra il lago",
+        "meta": "Nel tardo pomeriggio"
+      },
+      "04": {
+        "label": "Quando le montagne si tingono d’oro",
+        "meta": "Golden hour"
+      },
+      "05": {
+        "label": "Cena con vista",
+        "meta": "Al Bastione"
+      },
+      "06": {
+        "label": "Un brindisi sul Garda",
+        "meta": "Aperitivo"
+      },
+      "07": {
+        "label": "Quando si accendono le luci",
+        "meta": "Riva dopo il tramonto"
+      },
+      "08": {
+        "label": "Un momento per due",
+        "meta": "Sopra il Lago di Garda"
+      },
+      "09": {
+        "label": "Il Bastione",
+        "meta": "Monte Rocchetta"
+      }
+    },
+
+    "note": "Conserva il momento.",
+    "footer": "Ogni visita lascia un ricordo..."
+  },
+  
+  "cuisine": {
+    "eyebrow": "La Cucina",
+    "title": "La montagna incontra il Mediterraneo",
+    "description": "I sapori decisi del Trentino incontrano lo spirito fresco del Mediterraneo. Ingredienti di montagna, pesce di lago, formaggi d'alpeggio e salumi della tradizione vengono reinterpretati con un tocco contemporaneo. Ogni piatto unisce il carattere della montagna alla leggerezza del sud. Una cucina plasmata dal paesaggio, dalle stagioni e dalla vista.",
+    "panels": {
+      "lake": {
+        "title": "Il Lago",
+        "text": "Trota, salmerino e i sapori genuini del Lago di Garda."
+      },
+      "mountain": {
+        "title": "La Montagna",
+        "text": "Speck, formaggi d'alpeggio e la selvaggina delle valli del Trentino."
+      },
+      "mediterranean": {
+        "title": "Il Mediterraneo",
+        "text": "Olio, agrumi e pesce di mare, per una tavola che guarda a sud."
+      },
+      "cellar": {
+        "title": "La Cantina",
+        "text": "Etichette del Trentino e oltre, scelte per accompagnare ogni portata."
+      }
+    },
+    "dishes": {
+      "bastione": { "name": "Bastione", "description": "Fior di latte, mousse di Trentingrana, speck Alto Adige e noci." },
+      "lagoAffumicato": { "name": "Lago Affumicato", "description": "Salmerino del Garda, polenta di Storo e un tocco di affumicatura al ciliegio." },
+      "saporeDiLago": { "name": "Sapore di Lago", "description": "Spaghettoni, sardine del Garda, pinoli, pane croccante e uvetta." },
+      "ilNostroMare": { "name": "Il Nostro Mare", "description": "Spaghetti, datterini gialli e rossi e frutti di mare." },
+      "cozzePatateBaccala": { "name": "Cozze, Patate e Baccalà", "description": "Paccheri verdi, lime, crema di patate e cozze, baccalà e pelle croccante." },
+      "ilPolpoENero": { "name": "Il Polpo è Nero", "description": "Polpo alla griglia, burrata, datterini confit e salsa al prezzemolo." },
+      "duettoTrentino": { "name": "Duetto Trentino", "description": "Una selezione di salumi e formaggi del territorio." },
+      "terraDEstate": { "name": "Terra d'Estate", "description": "Carpaccio di manzo marinato 48 ore, mousse al gorgonzola e polenta di Storo." },
+      "blackAngus": { "name": "Black Angus", "description": "Controfiletto, crema di patate allo zafferano e rosmarino, funghi grigliati." },
+      "reginaMargherita": { "name": "Regina Margherita", "description": "San Marzano, mozzarella di bufala, prosciutto di Parma e basilico." },
+      "tonnetto": { "name": "Tonnetto", "description": "San Marzano, fior di latte, tonno scottato e cipolla stufata." },
+      "diavola": { "name": "Diavola", "description": "San Marzano D.O.P., mozzarella fior di latte e salamino piccante Levoni." }
+    }
+  },
+
+  "menu": {
+    "eyebrow": "I Preferiti del Menù",
+    "title": "Il sapore del momento",
+    "cta": "Scopri il menu",
+    "note": "Il menu cambia con le stagioni e la disponibilità del mercato.",
+    "items": {
+      "01": {
+        "name": "Terra d'Estate",
+        "description": "Carpaccio di manzo marinato 48 ore, mousse al gorgonzola e polenta di Storo.",
+        "price": "€19"
+      },
+      "02": {
+        "name": "Lago Affumicato",
+        "description": "Salmerino del Garda, polenta di Storo e un tocco di affumicatura al ciliegio.",
+        "price": "€24"
+      },
+      "03": {
+        "name": "Sapore di Lago",
+        "description": "Spaghettoni, sardine del Garda, pinoli, pane croccante e uvetta.",
+        "price": "€22"
+      },
+      "04": {
+        "name": "Black Angus",
+        "description": "Controfiletto, crema di patate allo zafferano e rosmarino, funghi grigliati.",
+        "price": "€32"
+      },
+      "05": {
+        "name": "Regina Margherita",
+        "description": "San Marzano, mozzarella di bufala, prosciutto di Parma e basilico.",
+        "price": "€16"
+      }
+    }
+  },
+  
+  "place": {
+    "eyebrow": "Il luogo",
+    "title": "Storia sopra il lago",
+    "description": "Un luogo storico trasformato in un'esperienza contemporanea.",
+    "cta": "Scopri la terrazza"
+  },
+
+  "events": {
+    "eyebrow": "Eventi",
+    "title": "Rendilo unico",
+    "description": "Celebrazioni, cene private ed esperienze speciali.",
+    "cta": "Scopri gli eventi",
+    "types": {
+      "privateDinners": "Cene private",
+      "celebrations": "Celebrazioni",
+      "aperitivo": "Aperitivo esclusivo"
+    }
+  },
+
+  "visit": {
+    "eyebrow": "Visita Bastione",
+    "title": "Vieni fin quassù",
+    "description": "Raggiungi Bastione sopra Riva del Garda e lascia che il viaggio faccia parte dell'esperienza.",
+    "locationLabel": "Dove siamo",
+    "address": "Via Monte Oro, 26 · Riva del Garda · Trentino, Italia",
+    "directions": "Come arrivare"
+  },
+  
+  "footer": {
+    "brandTitle": "Bastione",
+    "subtitle": "Lounge e Ristorante",
+    "email": "info@bastione.eu",
+    "phone": "+39 0464 07 68 61",
+    "followUs": "Seguici",
+    "legal": "Raggiungi Bastione con l’ascensore panoramico da Via Monte Oro oppure a piedi lungo il suggestivo sentiero SAT 404. Dalila s.r.l.s. | Via Garberie, 29 – 38062 Arco TN – P.IVA 02581570229",
+    "credit": "Realizzato con amore da"
+  },
+
+  "reservation": {
+    "eyebrow": "Prenotazioni",
+    "title": "Prenota il tuo tavolo",
+    "description": "Scegli il modo più comodo per te e contattaci direttamente.",
+    "close": "Chiudi",
+    "email": {
+      "title": "Prenota via email",
+      "description": "Indicaci la data, l'orario e il numero di persone."
+    },
+    "phone": {
+      "title": "Prenota per telefono",
+      "description": "Chiamaci direttamente per organizzare il tuo tavolo."
+    },
+    "contacts": {
+      "title": "Contattaci",
+      "description": "Trova il nostro indirizzo e tutti i recapiti.",
+      "label": "Contatti ufficiali"
+    },
+    "note": "Ti consigliamo di prenotare in anticipo, soprattutto per le serate e le occasioni speciali."
+  }
+
+}

@@ -1,0 +1,258 @@
+{
+
+  "meta": {
+    "title": "Bastione — Lounge & Restaurant | Riva del Garda",
+    "description": "Bastione Lounge & Restaurant above Lake Garda in Riva del Garda, Trentino."
+  },
+
+  "navigation": {
+    "view": "View",
+    "experience": "Experience",
+    "cuisine": "Cuisine",
+    "menu": "Menu",
+    "place": "The Place",
+    "moments": "Moments",
+    "events": "Events",
+    "visit": "Visit"
+  },
+
+  "hero": {
+    "titlePrefix": "A table above",
+    "titleLake": "Lake",
+    "titleGarda": "Garda",
+    "eyebrow": "Lounge & Restaurant",
+    "title": "A table above Lake Garda.",
+    "location": "Limone sul Garda · Lake Garda · Italy",
+    "description": "A place where Italian cuisine, hospitality and the beauty of Lake Garda come together.",
+    "primaryCta": "Reserve a table",
+    "secondaryCta": "Discover Al Buongusto",
+    "scroll": "Discover"
+  },
+
+  "view": {
+    "eyebrow": "The View",
+    "explore": "Explore",
+    "title": "Lake Garda from another perspective",
+    "description": "A panoramic terrace above Riva del Garda, where the landscape becomes part of the experience.",
+    "lakeCaption": "Riva del Garda · Lake Garda",
+    "lakeDetail": "From the Bastione terrace",
+    "cityCaption": "Riva del Garda · Historic centre",
+    "cityDetail": "Trentino · Italy",
+    "locationLabel": "The location",
+    "locationText": "Between the lake, the mountains and the historic centre of Riva del Garda."
+  },
+
+  "experience": {
+    "eyebrow": "Since 1507",
+    "title": "Built to defend. Restored to welcome.",
+    "text": "In 1507, the Republic of Venice raised a stone bastion on the slopes of Monte Rocchetta to guard Riva del Garda and its port. Venetian rule over the town ended before the fortress ever saw battle, and for centuries it stood in ruin above the lake. A panoramic lift reconnected it to the town in the 1950s, and a careful restoration returned it to the city in 2008 — the same terrace where Bastione now serves Trentino and Mediterranean cooking, from morning until after dark.",
+    "year": "1507",
+    "nodes": {
+      "arrive": {
+        "title": "Arrive",
+        "text": "Leave the lake behind and begin the journey upward.",
+        "detail": "min · through the woods"
+      },
+      "view": {
+        "title": "View",
+        "text": "Watch Riva, the lake and the mountains unfold from above.",
+        "detail": "m · above the lake"
+      },
+      "taste": {
+        "title": "Taste",
+        "text": "Trentino flavours meet Mediterranean inspiration at the table.",
+        "detail": "mountain · mediterranean"
+      },
+      "aperitivo": {
+        "title": "Aperitivo",
+        "text": "Stay for the light, the view and the slow transition into evening.",
+        "detail": "from day · into evening"
+      },
+      "stay": {
+        "title": "Stay",
+        "text": "Take your time. Breakfast, lunch, aperitivo, dinner and after-dinner.",
+        "detail": "all day · into the night"
+      }
+    }
+  },
+
+  "moments": {
+    "eyebrow": "Captured at Bastione",
+    "title": "Moments above the lake",
+    "description": "Come to Bastione and make the view part of your story. Share a long lunch above Lake Garda, raise a glass as the mountains turn golden, or simply slow down and enjoy the moment with someone special. From the first light over Riva del Garda to evenings beneath the open sky, every table offers more than a view — it offers a moment to remember. Join us, take your time, and create memories that will stay with you long after you leave.",
+
+    "cards": {
+      "01": {
+        "label": "Riva from above",
+        "meta": "The view"
+      },
+      "02": {
+        "label": "A table with a view",
+        "meta": "Bastione"
+      },
+      "03": {
+        "label": "Aperitivo above the lake",
+        "meta": "Late afternoon"
+      },
+      "04": {
+        "label": "When the mountains turn gold",
+        "meta": "Golden hour"
+      },
+      "05": {
+        "label": "Dinner with a view",
+        "meta": "At Bastione"
+      },
+      "06": {
+        "label": "A toast above Garda",
+        "meta": "Aperitivo"
+      },
+      "07": {
+        "label": "As the lights come on",
+        "meta": "Riva after dark"
+      },
+      "08": {
+        "label": "A moment for two",
+        "meta": "Above Lake Garda"
+      },
+      "09": {
+        "label": "The Bastione",
+        "meta": "Monte Rocchetta"
+      }
+    },
+
+    "note": "Keep the moment.",
+    "footer": "Every visit leaves a memory..."
+  },
+
+  "cuisine": {
+    "eyebrow": "The Cuisine",
+    "title": "Mountain meets Mediterranean",
+    "description": "The bold flavours of Trentino meet the fresh spirit of the Mediterranean. Local mountain ingredients, lake fish, alpine cheeses and traditional cured meats are reimagined with a contemporary touch. Every dish brings together the character of the mountains and the lightness of the south. A cuisine shaped by the landscape, the seasons and the view.",
+    "panels": {
+      "lake": {
+        "title": "The Lake",
+        "text": "Trout, char and the clean flavours of Lake Garda."
+      },
+      "mountain": {
+        "title": "The Mountain",
+        "text": "Speck, alpine cheeses and game from the valleys of Trentino."
+      },
+      "mediterranean": {
+        "title": "The Mediterranean",
+        "text": "Oil, citrus and seafood, for a table that looks south."
+      },
+      "cellar": {
+        "title": "The Cellar",
+        "text": "Labels from Trentino and beyond, chosen to accompany every course."
+      }
+    },
+    "dishes": {
+      "bastione": { "name": "Bastione", "description": "Fior di latte, Trentingrana mousse, Alto Adige speck and walnuts." },
+      "lagoAffumicato": { "name": "Lago Affumicato", "description": "Lake Garda char, Storo polenta and a hint of cherry-wood smoke." },
+      "saporeDiLago": { "name": "Sapore di Lago", "description": "Spaghettoni, Lake Garda sardines, pine nuts, crisp bread and raisins." },
+      "ilNostroMare": { "name": "Il Nostro Mare", "description": "Spaghetti, yellow and red datterini tomatoes and seafood." },
+      "cozzePatateBaccala": { "name": "Cozze, Patate e Baccalà", "description": "Green paccheri, lime, potato and mussel cream, cod and crispy skin." },
+      "ilPolpoENero": { "name": "Il Polpo è Nero", "description": "Grilled octopus, burrata, confit datterini and parsley sauce." },
+      "duettoTrentino": { "name": "Duetto Trentino", "description": "A selection of local cured meats and cheeses." },
+      "terraDEstate": { "name": "Terra d'Estate", "description": "48-hour marinated beef carpaccio, gorgonzola mousse and Storo polenta." },
+      "blackAngus": { "name": "Black Angus", "description": "Sirloin, saffron and rosemary potato cream, grilled mushrooms." },
+      "reginaMargherita": { "name": "Regina Margherita", "description": "San Marzano, buffalo mozzarella, Parma ham and basil." },
+      "tonnetto": { "name": "Tonnetto", "description": "San Marzano, fior di latte, seared tuna and stewed onion." },
+      "diavola": { "name": "Diavola", "description": "San Marzano D.O.P. tomatoes, fior di latte mozzarella and spicy Levoni salamino." }
+    }
+  },
+
+  "menu": {
+    "eyebrow": "Menu Favourites",
+    "title": "Taste the moment",
+    "cta": "Explore the menu",
+    "note": "The menu changes with the seasons and market availability.",
+    "items": {
+      "01": {
+        "name": "Terra d'Estate",
+        "description": "48-hour marinated beef carpaccio, gorgonzola mousse and Storo polenta.",
+        "price": "€19"
+      },
+      "02": {
+        "name": "Lago Affumicato",
+        "description": "Lake Garda char, Storo polenta and a hint of cherry-wood smoke.",
+        "price": "€24"
+      },
+      "03": {
+        "name": "Sapore di Lago",
+        "description": "Spaghettoni, Lake Garda sardines, pine nuts, crisp bread and raisins.",
+        "price": "€22"
+      },
+      "04": {
+        "name": "Black Angus",
+        "description": "Sirloin, saffron and rosemary potato cream, grilled mushrooms.",
+        "price": "€32"
+      },
+      "05": {
+        "name": "Regina Margherita",
+        "description": "San Marzano, buffalo mozzarella, Parma ham and basil.",
+        "price": "€16"
+      }
+    }
+  },
+
+  "place": {
+    "eyebrow": "The Place",
+    "title": "History above the lake",
+    "description": "A historic place transformed into a contemporary experience.",
+    "cta": "Explore the terrace"
+  },
+
+  "events": {
+    "eyebrow": "Events",
+    "title": "Make it yours",
+    "description": "Celebrations, private dinners and special experiences.",
+    "cta": "Explore events",
+    "types": {
+      "privateDinners": "Private dinners",
+      "celebrations": "Celebrations",
+      "aperitivo": "Exclusive aperitivo"
+    }
+  },
+
+  "visit": {
+    "eyebrow": "Visit Bastione",
+    "title": "Come up",
+    "description": "Reach Bastione above Riva del Garda and let the journey become part of the experience.",
+    "locationLabel": "Where we are",
+    "address": "Via Monte Oro, 26 · Riva del Garda · Trentino, Italy",
+    "directions": "Get directions"
+  },
+
+  "footer": {
+    "brandTitle": "Bastione",
+    "subtitle": "Lounge & Restaurant",
+    "email": "info@bastione.eu",
+    "phone": "+39 0464 07 68 61",
+    "followUs": "Follow us",
+    "legal": "Reach Bastione by panoramic lift from Via Monte Oro or on foot via the scenic SAT 404 trail. Dalila s.r.l.s. | Via Garberie, 29 – 38062 Arco TN – P.IVA 02581570229",
+    "credit": "Made with love by"
+  },
+
+  "reservation": {
+    "eyebrow": "Reservations",
+    "title": "Reserve your table",
+    "description": "Choose the way that is most convenient for you and contact us directly.",
+    "close": "Close",
+    "email": {
+      "title": "Reserve by email",
+      "description": "Send us your preferred date, time and number of guests."
+    },
+    "phone": {
+      "title": "Reserve by phone",
+      "description": "Call us directly to arrange your table."
+    },
+    "contacts": {
+      "title": "Contact us",
+      "description": "Find our address and all contact details.",
+      "label": "Official contacts"
+    },
+    "note": "We recommend booking in advance, especially for evenings and special occasions."
+  }
+
+}
