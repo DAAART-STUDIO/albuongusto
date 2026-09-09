@@ -201,8 +201,8 @@
      * Позиція самого об'єкта відносно всієї карти.
      * Це НЕ позиція тексту.
      */
-    top: 14%;
-    left: 69%;
+    top: 0%;
+    left: 61%;
     width: min(360px, 28vw);
     pointer-events: none;
   }
@@ -269,7 +269,7 @@
       width: auto;
     }
     .visit__pin {
-      top: 39%;
+      top: 33%;
       left: 50%;
       width: min(280px, 65vw);
       transform: translateX(-50%);

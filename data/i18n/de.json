@@ -216,43 +216,50 @@
   },
 
   "visit": {
-    "eyebrow": "Bastione besuchen",
-    "title": "Kommen Sie hinauf",
-    "description": "Erreichen Sie Bastione über Riva del Garda und lassen Sie schon den Weg Teil des Erlebnisses werden.",
+    "eyebrow": "Besuchen Sie Al Buongusto",
+    "title": "Kommen Sie nach Limone",
+    "description": "Sie finden uns im Herzen von Limone sul Garda – machen Sie Ihren Besuch zu einem Teil des Gardasee-Erlebnisses.",
     "locationLabel": "Wo wir sind",
-    "address": "Via Monte Oro, 26 · Riva del Garda · Trentino, Italien",
+    "address": "Via Fontana 2 · 25010 Limone sul Garda BS · Italien",
     "directions": "Route anzeigen"
   },
 
   "footer": {
-    "brandTitle": "Bastione",
-    "subtitle": "Lounge und Restaurant",
-    "email": "info@bastione.eu",
-    "phone": "+39 0464 07 68 61",
+    "brandLabel": "HOSTARIA AL BUONGUSTO",
+    "brandTitle": "HOSTARIA",
+    "subtitle": "al Buongusto",
+    "phone": "+39 0365 388123",
+    "website": "albuongusto.com",
     "followUs": "Folgen Sie uns",
-    "legal": "Erreichen Sie Bastione mit dem Panoramalift von der Via Monte Oro oder zu Fuß über den malerischen Weg SAT 404. Dalila s.r.l.s. | Via Garberie, 29 – 38062 Arco TN – P.IVA 02581570229",
-    "credit": "Mit Liebe gestaltet von"
+    "legal": "Via Fontana 2 · 25010 Limone sul Garda BS · Italien. Sie finden uns im Herzen von Limone – ideal, um die historische Altstadt, die alten Zitronenhaine und die Wege am See zu entdecken. Von hier aus lässt sich der Gardasee zu Fuß, mit dem Fahrrad oder per Boot erkunden.",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "google": "Google Maps",
+    "tripadvisor": "Tripadvisor",
+    "copyright": "© 2026",
+    "credit": "Mit Liebe erstellt von",
+    "author": "daaart.in.ua"
   },
 
   "reservation": {
     "eyebrow": "Reservierungen",
     "title": "Tisch reservieren",
-    "description": "Wählen Sie den für Sie bequemsten Weg und kontaktieren Sie uns direkt.",
+    "description": "Wählen Sie die für Sie passende Option und kontaktieren Sie Hostaria Al Buongusto direkt.",
     "close": "Schließen",
-    "email": {
-      "title": "Per E-Mail reservieren",
-      "description": "Senden Sie uns Ihren Wunschtermin, die Uhrzeit und die Anzahl der Gäste."
-    },
     "phone": {
       "title": "Telefonisch reservieren",
       "description": "Rufen Sie uns direkt an, um Ihren Tisch zu reservieren."
     },
-    "contacts": {
-      "title": "Kontakt",
-      "description": "Hier finden Sie unsere Adresse und alle Kontaktdaten.",
-      "label": "Offizielle Kontaktdaten"
+    "location": {
+      "title": "So finden Sie uns",
+      "description": "Öffnen Sie unseren Standort in Google Maps und lassen Sie sich den Weg anzeigen.",
+      "label": "Via Fontana 2 · Limone sul Garda"
     },
-    "note": "Wir empfehlen, insbesondere für Abende und besondere Anlässe, im Voraus zu reservieren."
+    "website": {
+      "title": "Unsere Website besuchen",
+      "description": "Entdecken Sie Hostaria Al Buongusto und planen Sie Ihren Besuch."
+    },
+    "note": "Wir empfehlen eine frühzeitige Reservierung, besonders am Abend und zu besonderen Anlässen."
   }
     
 }

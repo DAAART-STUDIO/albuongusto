@@ -216,43 +216,50 @@
   },
 
   "visit": {
-    "eyebrow": "Visita Bastione",
-    "title": "Vieni fin quassù",
-    "description": "Raggiungi Bastione sopra Riva del Garda e lascia che il viaggio faccia parte dell'esperienza.",
+    "eyebrow": "Visita Al Buongusto",
+    "title": "Vieni a Limone",
+    "description": "Ci trovi nel cuore di Limone sul Garda: lascia che la tua visita diventi parte dell'esperienza del Lago di Garda.",
     "locationLabel": "Dove siamo",
-    "address": "Via Monte Oro, 26 · Riva del Garda · Trentino, Italia",
+    "address": "Via Fontana 2 · 25010 Limone sul Garda BS · Italia",
     "directions": "Come arrivare"
   },
   
   "footer": {
-    "brandTitle": "Bastione",
-    "subtitle": "Lounge e Ristorante",
-    "email": "info@bastione.eu",
-    "phone": "+39 0464 07 68 61",
+    "brandLabel": "HOSTARIA AL BUONGUSTO",
+    "brandTitle": "HOSTARIA",
+    "subtitle": "al Buongusto",
+    "phone": "+39 0365 388123",
+    "website": "albuongusto.com",
     "followUs": "Seguici",
-    "legal": "Raggiungi Bastione con l’ascensore panoramico da Via Monte Oro oppure a piedi lungo il suggestivo sentiero SAT 404. Dalila s.r.l.s. | Via Garberie, 29 – 38062 Arco TN – P.IVA 02581570229",
-    "credit": "Realizzato con amore da"
+    "legal": "Via Fontana 2 · 25010 Limone sul Garda BS · Italia. Ci trovi nel cuore di Limone: prenditi il tempo per esplorare il centro storico, le antiche limonaie e i percorsi lungo il lago. Da qui, il Lago di Garda è tutto da scoprire — a piedi, in bicicletta o in barca.",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "google": "Google Maps",
+    "tripadvisor": "Tripadvisor",
+    "copyright": "© 2026",
+    "credit": "Realizzato con amore da",
+    "author": "daaart.in.ua"
   },
 
   "reservation": {
     "eyebrow": "Prenotazioni",
     "title": "Prenota il tuo tavolo",
-    "description": "Scegli il modo più comodo per te e contattaci direttamente.",
+    "description": "Scegli l'opzione che preferisci e contatta direttamente Hostaria Al Buongusto.",
     "close": "Chiudi",
-    "email": {
-      "title": "Prenota via email",
-      "description": "Indicaci la data, l'orario e il numero di persone."
-    },
     "phone": {
       "title": "Prenota per telefono",
-      "description": "Chiamaci direttamente per organizzare il tuo tavolo."
+      "description": "Chiamaci direttamente per prenotare il tuo tavolo."
     },
-    "contacts": {
-      "title": "Contattaci",
-      "description": "Trova il nostro indirizzo e tutti i recapiti.",
-      "label": "Contatti ufficiali"
+    "location": {
+      "title": "Dove trovarci",
+      "description": "Apri la nostra posizione su Google Maps e scopri come raggiungerci.",
+      "label": "Via Fontana 2 · Limone sul Garda"
     },
-    "note": "Ti consigliamo di prenotare in anticipo, soprattutto per le serate e le occasioni speciali."
+    "website": {
+      "title": "Visita il nostro sito",
+      "description": "Scopri Hostaria Al Buongusto e organizza la tua visita."
+    },
+    "note": "Ti consigliamo di prenotare in anticipo, soprattutto per la sera e per le occasioni speciali."
   }
 
 }
