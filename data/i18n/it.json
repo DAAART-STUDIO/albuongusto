@@ -30,188 +30,227 @@
   },
   
   "view": {
-    "eyebrow": "La vista",
+    "eyebrow": "L'Atmosfera",
     "explore": "Scopri",
-    "title": "Il Lago di Garda da un'altra prospettiva",
-    "description": "Una terrazza panoramica sopra Riva del Garda, dove il paesaggio diventa parte dell'esperienza.",
-    "lakeCaption": "Riva del Garda · Lago di Garda",
-    "lakeDetail": "Dalla terrazza del Bastione",
-    "cityCaption": "Riva del Garda · Centro storico",
-    "cityDetail": "Trentino · Italia",
-    "locationLabel": "La posizione",
-    "locationText": "Tra il lago, le montagne e il centro storico di Riva del Garda."
+    "title": "Due anime di Al Buongusto",
+    "description": "Dal giardino immerso nel verde dei limoni alle serate intime a tavola — scopri l'atmosfera di Hostaria Al Buongusto.",
+    "lakeCaption": "Il Giardino · Limone sul Garda",
+    "lakeDetail": "Tra limoni e terrazze in pietra",
+    "cityCaption": "La Sera · Al Buongusto",
+    "cityDetail": "Cena · Vino · Limone sul Garda",
+    "locationLabel": "Dove siamo",
+    "locationText": "Nel cuore di Limone sul Garda, tra il carattere e la bellezza del Lago di Garda."
   },
 
   "experience": {
-    "eyebrow": "Dal 1507",
-    "title": "Costruito per difendere. Restaurato per accogliere.",
-    "text": "Nel 1507 la Repubblica di Venezia fece erigere un bastione di pietra sulle pendici del Monte Rocchetta, a guardia di Riva del Garda e del suo porto. Il dominio veneziano si concluse prima che la fortezza vedesse battaglia, e per secoli rimase in rovina sopra il lago. Una funivia panoramica la ricollegò alla città negli anni '50, e un attento restauro la restituì a Riva nel 2008 — la stessa terrazza dove oggi Bastione propone una cucina tra Trentino e Mediterraneo, dalla colazione al dopocena.",
-    "year": "1507",
+    "eyebrow": "Un luogo con radici profonde",
+    "title": "Dalle antiche limonaie di Limone ad Al Buongusto",
+    "text": "Hostaria Al Buongusto nasce tra le mura di un'antica limonaia — i tradizionali giardini di limoni che hanno plasmato l'identità di Limone sul Garda. Costruite sui terrazzamenti tra il lago e la montagna, queste storiche limonaie proteggevano gli agrumi durante l'inverno e hanno reso Limone uno dei borghi di coltivazione dei limoni più caratteristici d'Europa. Oggi, gli antichi muri in pietra, i terrazzamenti e il borgo che li circonda continuano questa storia in un modo nuovo: attraverso la cucina, il vino e l'ospitalità.",
+    "year": "1720",
     "nodes": {
-      "arrive": {
-        "title": "Arriva",
-        "text": "Lascia il lago alle spalle e inizia il percorso verso l'alto.",
-        "detail": "min · attraverso il bosco"
+      "way01": {
+        "title": "Il viaggio comincia"
       },
-      "view": {
-        "title": "Guarda",
-        "text": "Riva, il lago e le montagne si aprono davanti a te dall'alto.",
-        "detail": "m · sopra il lago"
+      "way02": {
+        "title": "Verso Limone"
       },
-      "taste": {
-        "title": "Assaggia",
-        "text": "I sapori del Trentino incontrano l'ispirazione mediterranea a tavola.",
-        "detail": "montagna · mediterraneo"
+      "way03": {
+        "title": "In arrivo a Limone"
       },
-      "aperitivo": {
-        "title": "Aperitivo",
-        "text": "Resta per la luce, la vista e il lento passaggio verso la sera.",
-        "detail": "dal giorno · alla sera"
+      "way04": {
+        "title": "Entrando in paese"
       },
-      "stay": {
-        "title": "Resta",
-        "text": "Prenditi il tuo tempo. Colazione, pranzo, aperitivo, cena e dopocena.",
-        "detail": "tutto il giorno · fino a notte"
+      "way05": {
+        "title": "Nel centro storico"
+      },
+      "way06": {
+        "title": "Ci siamo quasi"
+      },
+      "way07": {
+        "title": "Via Fontana"
+      },
+      "way08": {
+        "title": "Ancora pochi passi"
+      },
+      "way09": {
+        "title": "Siete arrivati"
+      },
+      "way10": {
+        "title": "Hostaria Al Buongusto"
       }
     }
   },
 
   "moments": {
-    "eyebrow": "Momenti al Bastione",
-    "title": "Momenti sopra il lago",
-    "description": "Vieni al Bastione e lascia che questo momento diventi parte della tua storia. Trascorri un pomeriggio condividendo buon cibo e conversazioni sopra il Lago di Garda, guarda le montagne tingersi d’oro al tramonto o fermati per un drink mentre le luci di Riva del Garda iniziano a brillare sotto di te. Qui, ogni tavolo ha una vista, ogni tramonto diventa un ricordo e ogni visita può trasformarsi in qualcosa di indimenticabile. Vieni, rallenta e vivi un momento che vorrai ricordare.",
-
+    "eyebrow": "Momenti dei nostri ospiti",
+    "title": "Ricordi vissuti ad Al Buongusto",
+    "description": "Una cena, un brindisi, un sorriso, un selfie — i momenti che i nostri ospiti portano con sé.",
     "cards": {
       "01": {
-        "label": "Riva dall’alto",
-        "meta": "La vista"
+        "label": "La prima sera a Limone",
+        "meta": "Ad Al Buongusto"
       },
       "02": {
-        "label": "Una tavola con vista",
-        "meta": "Bastione"
+        "label": "Una tavola da ricordare",
+        "meta": "Ora di cena"
       },
       "03": {
-        "label": "Aperitivo sopra il lago",
-        "meta": "Nel tardo pomeriggio"
+        "label": "Un brindisi da Limone",
+        "meta": "A tavola con gli amici"
       },
       "04": {
-        "label": "Quando le montagne si tingono d’oro",
-        "meta": "Golden hour"
+        "label": "Un assaggio d'Italia",
+        "meta": "Dalla tavola"
       },
       "05": {
-        "label": "Cena con vista",
-        "meta": "Al Bastione"
+        "label": "Solo noi due",
+        "meta": "Una sera ad Al Buongusto"
       },
       "06": {
-        "label": "Un brindisi sul Garda",
-        "meta": "Aperitivo"
+        "label": "Un altro brindisi",
+        "meta": "Con gli amici"
       },
       "07": {
-        "label": "Quando si accendono le luci",
-        "meta": "Riva dopo il tramonto"
+        "label": "Una notte a Limone",
+        "meta": "Dopo cena"
       },
       "08": {
-        "label": "Un momento per due",
-        "meta": "Sopra il Lago di Garda"
+        "label": "Un ricordo per due",
+        "meta": "Al Buongusto"
       },
       "09": {
-        "label": "Il Bastione",
-        "meta": "Monte Rocchetta"
+        "label": "Noi siamo stati qui",
+        "meta": "Limone sul Garda"
       }
     },
-
     "note": "Conserva il momento.",
-    "footer": "Ogni visita lascia un ricordo..."
+    "footer": "Ogni tavola ha una storia. Ogni visita lascia un ricordo."
   },
   
   "cuisine": {
     "eyebrow": "La Cucina",
-    "title": "La montagna incontra il Mediterraneo",
-    "description": "I sapori decisi del Trentino incontrano lo spirito fresco del Mediterraneo. Ingredienti di montagna, pesce di lago, formaggi d'alpeggio e salumi della tradizione vengono reinterpretati con un tocco contemporaneo. Ogni piatto unisce il carattere della montagna alla leggerezza del sud. Una cucina plasmata dal paesaggio, dalle stagioni e dalla vista.",
+    "title": "La cucina italiana, plasmata dal Lago di Garda",
+    "description": "Da Hostaria Al Buongusto la cucina italiana incontra i sapori del Lago di Garda e del Mediterraneo. Il menu unisce pesce di lago e frutti di mare, pasta fatta a mano, carni selezionate e ingredienti stagionali. Dal pesce d'acqua dolce alla pasta ripiena, dalla Fassona piemontese ai delicati dessert, ogni piatto è interpretato con un tocco contemporaneo, mantenendo intatto il carattere della cucina italiana. Una tavola dove prendersi il proprio tempo, condividere una bottiglia di vino e scoprire qualcosa di nuovo a ogni portata.",
     "panels": {
       "lake": {
-        "title": "Il Lago",
-        "text": "Trota, salmerino e i sapori genuini del Lago di Garda."
+        "title": "Lago & Mare",
+        "text": "Pesce di lago, frutti di mare e sapori freschi del Lago di Garda."
       },
       "mountain": {
-        "title": "La Montagna",
-        "text": "Speck, formaggi d'alpeggio e la selvaggina delle valli del Trentino."
+        "title": "Pasta & Ravioli",
+        "text": "Pasta fatta a mano, fagottini ripieni e condimenti ispirati alla cucina italiana."
       },
       "mediterranean": {
-        "title": "Il Mediterraneo",
-        "text": "Olio, agrumi e pesce di mare, per una tavola che guarda a sud."
+        "title": "Carne & Griglia",
+        "text": "Tartare di Fassona, tagliate, bistecche e carni preparate con cura."
       },
       "cellar": {
-        "title": "La Cantina",
-        "text": "Etichette del Trentino e oltre, scelte per accompagnare ogni portata."
+        "title": "Vino & Dessert",
+        "text": "Vini selezionati, tiramisù e delicati dessert per concludere il percorso."
       }
     },
     "dishes": {
-      "bastione": { "name": "Bastione", "description": "Fior di latte, mousse di Trentingrana, speck Alto Adige e noci." },
-      "lagoAffumicato": { "name": "Lago Affumicato", "description": "Salmerino del Garda, polenta di Storo e un tocco di affumicatura al ciliegio." },
-      "saporeDiLago": { "name": "Sapore di Lago", "description": "Spaghettoni, sardine del Garda, pinoli, pane croccante e uvetta." },
-      "ilNostroMare": { "name": "Il Nostro Mare", "description": "Spaghetti, datterini gialli e rossi e frutti di mare." },
-      "cozzePatateBaccala": { "name": "Cozze, Patate e Baccalà", "description": "Paccheri verdi, lime, crema di patate e cozze, baccalà e pelle croccante." },
-      "ilPolpoENero": { "name": "Il Polpo è Nero", "description": "Polpo alla griglia, burrata, datterini confit e salsa al prezzemolo." },
-      "duettoTrentino": { "name": "Duetto Trentino", "description": "Una selezione di salumi e formaggi del territorio." },
-      "terraDEstate": { "name": "Terra d'Estate", "description": "Carpaccio di manzo marinato 48 ore, mousse al gorgonzola e polenta di Storo." },
-      "blackAngus": { "name": "Black Angus", "description": "Controfiletto, crema di patate allo zafferano e rosmarino, funghi grigliati." },
-      "reginaMargherita": { "name": "Regina Margherita", "description": "San Marzano, mozzarella di bufala, prosciutto di Parma e basilico." },
-      "tonnetto": { "name": "Tonnetto", "description": "San Marzano, fior di latte, tonno scottato e cipolla stufata." },
-      "diavola": { "name": "Diavola", "description": "San Marzano D.O.P., mozzarella fior di latte e salamino piccante Levoni." }
+      "tunatartare": {
+        "name": "Tartare di Tonno",
+        "description": "Tonno crudo con peperone piquillo, pepe Timut, lime e cremoso di mozzarella."
+      },
+      "lagoAffumicato": {
+        "name": "Salmerino Affumicato",
+        "description": "Salmerino del Garda affumicato con mandarino."
+      },
+      "saporeDiLago": {
+        "name": "Spaghetti al Ragù di Lago",
+        "description": "Spaghetti alla chitarra con ragù di lago, salsa all'aglio dolce e basilico."
+      },
+      "ilNostroMare": {
+        "name": "Fagottini Cernia e Gamberi",
+        "description": "Fagottini fatti a mano ripieni di cernia e gamberi, serviti con la loro bisque."
+      },
+      "cozzePatateBaccala": {
+        "name": "Spaghetti al Tonno e Bottarga",
+        "description": "Spaghetti con aglio, olio, peperoncino, tonno fresco, pomodorini e bottarga di tonno."
+      },
+      "ilPolpoENero": {
+        "name": "Involtini di Pesce",
+        "description": "Involtini di pesce con una finitura croccante e sapori mediterranei."
+      },
+      "duettoTrentino": {
+        "name": "Tartare di Fassona",
+        "description": "Tartare di manzo Fassona piemontese con tartufo, Grana e perle di balsamico."
+      },
+      "terraDEstate": {
+        "name": "Tagliata di Manzo",
+        "description": "Tagliata di manzo con rucola, Grana e patate al rosmarino."
+      },
+      "blackAngus": {
+        "name": "Tomahawk di Suino",
+        "description": "Tomahawk di suino da 300 g in crosta di panko, con insalata di patate, cipolla di Tropea e yogurt alpino."
+      },
+      "reginaMargherita": {
+        "name": "Tagliatelle ai Quattro Pomodori",
+        "description": "Tagliatelle ai quattro pomodori con stracciatella di burrata e pesto di basilico."
+      },
+      "tonnetto": {
+        "name": "Trota e Zucchine",
+        "description": "Darna di trota con zucchine alla scapece."
+      },
+      "diavola": {
+        "name": "La Freschezza di Limone",
+        "description": "Un delicato dessert al limone, ispirato ai sapori e alla freschezza di Limone sul Garda."
+      }
     }
   },
 
   "menu": {
-    "eyebrow": "I Preferiti del Menù",
-    "title": "Il sapore del momento",
+    "eyebrow": "I Preferiti del Menu",
+    "title": "Assapora il momento",
     "cta": "Scopri il menu",
-    "note": "Il menu cambia con le stagioni e la disponibilità del mercato.",
+    "note": "Il menu cambia con le stagioni e in base alla disponibilità del mercato.",
     "items": {
       "01": {
-        "name": "Terra d'Estate",
-        "description": "Carpaccio di manzo marinato 48 ore, mousse al gorgonzola e polenta di Storo.",
-        "price": "€19"
+        "name": "Tartare di Fassona",
+        "description": "Tartare di manzo Fassona piemontese con tartufo, Grana e perle di aceto balsamico.",
+        "price": "~€22"
       },
       "02": {
-        "name": "Lago Affumicato",
-        "description": "Salmerino del Garda, polenta di Storo e un tocco di affumicatura al ciliegio.",
-        "price": "€24"
+        "name": "Fagottini Cernia e Gamberi",
+        "description": "Fagottini fatti a mano ripieni di cernia e gamberi, serviti con la loro bisque.",
+        "price": "~€20"
       },
       "03": {
-        "name": "Sapore di Lago",
-        "description": "Spaghettoni, sardine del Garda, pinoli, pane croccante e uvetta.",
-        "price": "€22"
+        "name": "Spaghetti al Tonno Fresco e Bottarga",
+        "description": "Spaghetti Felicetti con aglio, olio, peperoncino, pomodorini in acqua di mare, tonno fresco e bottarga di tonno.",
+        "price": "~€18"
       },
       "04": {
-        "name": "Black Angus",
-        "description": "Controfiletto, crema di patate allo zafferano e rosmarino, funghi grigliati.",
-        "price": "€32"
+        "name": "Tagliata di Manzo",
+        "description": "Tagliata di manzo con rucola, Grana e patate al rosmarino.",
+        "price": "~€26"
       },
       "05": {
-        "name": "Regina Margherita",
-        "description": "San Marzano, mozzarella di bufala, prosciutto di Parma e basilico.",
-        "price": "€16"
+        "name": "La Freschezza di Limone",
+        "description": "Il dessert al limone della casa, ispirato alla freschezza di Limone sul Garda.",
+        "price": "~€9"
       }
     }
   },
   
   "place": {
-    "eyebrow": "Il luogo",
-    "title": "Storia sopra il lago",
-    "description": "Un luogo storico trasformato in un'esperienza contemporanea.",
-    "cta": "Scopri la terrazza"
+    "eyebrow": "Il Luogo",
+    "title": "Il gusto di Limone",
+    "description": "Un luogo accogliente nel cuore di Limone sul Garda, dove la cucina italiana incontra l'atmosfera senza tempo del lago.",
+    "cta": "Scopri il locale"
   },
 
   "events": {
     "eyebrow": "Eventi",
-    "title": "Rendilo unico",
-    "description": "Celebrazioni, cene private ed esperienze speciali.",
+    "title": "Rendilo speciale",
+    "description": "Cene romantiche, celebrazioni e momenti speciali nel cuore di Limone sul Garda.",
     "cta": "Scopri gli eventi",
     "types": {
       "privateDinners": "Cene private",
       "celebrations": "Celebrazioni",
-      "aperitivo": "Aperitivo esclusivo"
+      "aperitivo": "Aperitivo speciale"
     }
   },
 

@@ -30,188 +30,229 @@
   },
   
   "view": {
-    "eyebrow": "Der Ausblick",
+    "eyebrow": "Die Atmosphäre",
     "explore": "Entdecken",
-    "title": "Der Gardasee aus einer anderen Perspektive",
-    "description": "Eine Panoramaterrasse über Riva del Garda, wo die Landschaft Teil des Erlebnisses wird.",
-    "lakeCaption": "Riva del Garda · Gardasee",
-    "lakeDetail": "Von der Terrasse des Bastione",
-    "cityCaption": "Riva del Garda · Historisches Zentrum",
-    "cityDetail": "Trentino · Italien",
-    "locationLabel": "Die Lage",
-    "locationText": "Zwischen See, Bergen und der historischen Altstadt von Riva del Garda."
+    "title": "Zwei Seiten von Al Buongusto",
+    "description": "Vom sonnigen Garten unter Zitronenbäumen bis zu intimen Abenden am Tisch – entdecken Sie die Atmosphäre der Hostaria Al Buongusto.",
+    "lakeCaption": "Der Garten · Limone sul Garda",
+    "lakeDetail": "Zwischen Zitronenbäumen und Steinterrassen",
+    "cityCaption": "Der Abend · Al Buongusto",
+    "cityDetail": "Dinner · Wein · Limone sul Garda",
+    "locationLabel": "Wo wir sind",
+    "locationText": "Im Herzen von Limone sul Garda, umgeben vom Charakter und der Schönheit des Gardasees."
   },
 
   "experience": {
-    "eyebrow": "Seit 1507",
-    "title": "Erbaut zur Verteidigung. Restauriert für Gastfreundschaft.",
-    "text": "1507 errichtete die Republik Venedig an den Hängen des Monte Rocchetta eine steinerne Bastion zum Schutz von Riva del Garda und seines Hafens. Die venezianische Herrschaft endete, bevor die Festung je in eine Schlacht verwickelt wurde, und jahrhundertelang lag sie als Ruine über dem See. In den 1950er-Jahren verband eine Panoramabahn sie wieder mit der Stadt, 2008 gab eine sorgfältige Restaurierung sie Riva zurück — dieselbe Terrasse, auf der Bastione heute Küche zwischen Trentino und Mittelmeer serviert, vom Frühstück bis zum Absacker.",
-    "year": "1507",
+    "eyebrow": "Ein Ort mit Geschichte",
+    "title": "Von den Zitronengärten von Limone zum Al Buongusto",
+    "text": "Die Hostaria Al Buongusto befindet sich in den Mauern einer alten Limonaia – der traditionellen Zitronengärten, die die Identität von Limone sul Garda geprägt haben. In die Terrassen zwischen See und Berg gebaut, schützten diese historischen Gärten die Zitrusbäume im Winter und machten Limone zu einem der charakteristischsten Zitronenanbauorte Europas. Heute erzählen die alten Steinmauern, Terrassen und das umliegende Dorf diese Geschichte auf neue Weise weiter: durch Küche, Wein und Gastfreundschaft.",
+    "year": "1720",
     "nodes": {
-      "arrive": {
-        "title": "Ankommen",
-        "text": "Lassen Sie den See hinter sich und beginnen Sie den Weg nach oben.",
-        "detail": "Min. · durch den Wald"
+      "way01": {
+        "title": "Die Reise beginnt"
       },
-      "view": {
-        "title": "Blicken",
-        "text": "Riva, der See und die Berge öffnen sich vor Ihnen von oben.",
-        "detail": "m · über dem See"
+      "way02": {
+        "title": "Auf dem Weg nach Limone"
       },
-      "taste": {
-        "title": "Genießen",
-        "text": "Aromen aus dem Trentino treffen bei Tisch auf mediterrane Inspiration.",
-        "detail": "Berge · Mittelmeer"
+      "way03": {
+        "title": "Ankunft in Limone"
       },
-      "aperitivo": {
-        "title": "Aperitivo",
-        "text": "Bleiben Sie für das Licht, den Ausblick und den langsamen Übergang in den Abend.",
-        "detail": "vom Tag · in den Abend"
+      "way04": {
+        "title": "Wir erreichen den Ort"
       },
-      "stay": {
-        "title": "Bleiben",
-        "text": "Nehmen Sie sich Zeit. Frühstück, Mittagessen, Aperitivo, Dinner und After-Dinner.",
-        "detail": "den ganzen Tag · bis in die Nacht"
+      "way05": {
+        "title": "In der Altstadt"
+      },
+      "way06": {
+        "title": "Fast geschafft"
+      },
+      "way07": {
+        "title": "Via Fontana"
+      },
+      "way08": {
+        "title": "Nur noch wenige Schritte"
+      },
+      "way09": {
+        "title": "Sie sind angekommen"
+      },
+      "way10": {
+        "title": "Hostaria Al Buongusto"
       }
     }
   },
 
   "moments": {
-    "eyebrow": "Momente im Bastione",
-    "title": "Momente über dem See",
-    "description": "Kommen Sie ins Bastione und lassen Sie diesen Moment Teil Ihrer Geschichte werden. Verbringen Sie einen Nachmittag bei gutem Essen und anregenden Gesprächen hoch über dem Gardasee, erleben Sie, wie die Berge im goldenen Abendlicht erstrahlen, oder genießen Sie einen Drink, während unter Ihnen die Lichter von Riva del Garda zu funkeln beginnen. Hier bietet jeder Tisch mehr als nur einen Ausblick – er schenkt einen Moment, den man nicht vergisst. Kommen Sie, lassen Sie den Alltag hinter sich und erleben Sie einen Augenblick, der in Erinnerung bleibt.",
+    "eyebrow": "Momente unserer Gäste",
+    "title": "Erinnerungen im Al Buongusto",
+    "description": "Ein Abendessen, ein Toast, ein Lächeln, ein Selfie – Momente, die unsere Gäste mit nach Hause nehmen.",
 
     "cards": {
       "01": {
-        "label": "Riva von oben",
-        "meta": "Der Ausblick"
+        "label": "Der erste Abend in Limone",
+        "meta": "Im Al Buongusto"
       },
       "02": {
-        "label": "Ein Tisch mit Aussicht",
-        "meta": "Bastione"
+        "label": "Ein Tisch zum Erinnern",
+        "meta": "Zeit zum Abendessen"
       },
       "03": {
-        "label": "Aperitivo über dem See",
-        "meta": "Am späten Nachmittag"
+        "label": "Ein Toast aus Limone",
+        "meta": "Mit Freunden am Tisch"
       },
       "04": {
-        "label": "Wenn die Berge golden werden",
-        "meta": "Golden Hour"
+        "label": "Ein kleiner Geschmack Italiens",
+        "meta": "Von der Tafel"
       },
       "05": {
-        "label": "Dinner mit Aussicht",
-        "meta": "Im Bastione"
+        "label": "Nur wir zwei",
+        "meta": "Ein Abend im Al Buongusto"
       },
       "06": {
-        "label": "Ein Toast auf den Gardasee",
-        "meta": "Aperitivo"
+        "label": "Noch ein Toast",
+        "meta": "Mit Freunden"
       },
       "07": {
-        "label": "Wenn die Lichter angehen",
-        "meta": "Riva nach Sonnenuntergang"
+        "label": "Eine Nacht in Limone",
+        "meta": "Nach dem Abendessen"
       },
       "08": {
-        "label": "Ein Moment zu zweit",
-        "meta": "Über dem Gardasee"
+        "label": "Eine Erinnerung zu zweit",
+        "meta": "Al Buongusto"
       },
       "09": {
-        "label": "Das Bastione",
-        "meta": "Monte Rocchetta"
+        "label": "Wir waren hier",
+        "meta": "Limone sul Garda"
       }
     },
 
-    "note": "Bewahre den Moment.",
-    "footer": "Jeder Besuch hinterlässt eine Erinnerung..."
+    "note": "Halte den Moment fest.",
+    "footer": "Jeder Tisch hat eine Geschichte. Jeder Besuch hinterlässt eine Erinnerung."
   },
 
   "cuisine": {
     "eyebrow": "Die Küche",
-    "title": "Berge treffen Mittelmeer",
-    "description": "Die kräftigen Aromen des Trentino treffen auf den frischen Geist des Mittelmeers. Lokale Zutaten aus den Bergen, Fisch aus dem See, Almkäse und traditionelle Wurstwaren werden mit einer zeitgemäßen Note neu interpretiert. Jedes Gericht vereint den Charakter der Berge mit der Leichtigkeit des Südens. Eine Küche, geprägt von der Landschaft, den Jahreszeiten und dem Ausblick.",
+    "title": "Italienische Küche, geprägt vom Gardasee",
+    "description": "Bei Hostaria Al Buongusto trifft italienische Küche auf die Aromen des Gardasees und des Mittelmeers. Die Speisekarte verbindet Seefisch und Meeresfrüchte, hausgemachte Pasta, sorgfältig ausgewähltes Fleisch und saisonale Zutaten. Von Süßwasserfisch und gefüllter Pasta bis hin zu piemontesischem Fassona-Rind und feinen Desserts wird jedes Gericht mit einer zeitgemäßen Note interpretiert, ohne den Charakter der italienischen Küche zu verlieren. Eine Tafel, an der man sich Zeit nimmt, eine Flasche Wein teilt und mit jedem Gang etwas Neues entdeckt.",
     "panels": {
       "lake": {
-        "title": "Der See",
-        "text": "Forelle, Saibling und die reinen Aromen des Gardasees."
+        "title": "See & Meer",
+        "text": "Seefisch, Meeresfrüchte und die frischen Aromen des Gardasees."
       },
       "mountain": {
-        "title": "Der Berg",
-        "text": "Speck, Almkäse und Wild aus den Tälern des Trentino."
+        "title": "Pasta & Ravioli",
+        "text": "Hausgemachte Pasta, gefüllte Fagottini und Saucen mit italienischer Inspiration."
       },
       "mediterranean": {
-        "title": "Das Mittelmeer",
-        "text": "Öl, Zitrusfrüchte und Meeresfrüchte für eine Tafel mit Blick nach Süden."
+        "title": "Fleisch & Grill",
+        "text": "Fassona-Tatar, Tagliata, Steaks und sorgfältig zubereitete Fleischgerichte."
       },
       "cellar": {
-        "title": "Der Weinkeller",
-        "text": "Weine aus dem Trentino und darüber hinaus, sorgfältig zu jedem Gang ausgewählt."
+        "title": "Wein & Dessert",
+        "text": "Ausgewählte Weine, Tiramisù und feine Desserts zum Abschluss."
       }
     },
     "dishes": {
-      "bastione": { "name": "Bastione", "description": "Fior di latte, Trentingrana-Mousse, Speck Alto Adige und Walnüsse." },
-      "lagoAffumicato": { "name": "Lago Affumicato", "description": "Saibling aus dem Gardasee, Polenta aus Storo und ein Hauch Kirschholzrauch." },
-      "saporeDiLago": { "name": "Sapore di Lago", "description": "Spaghettoni, Sardinen aus dem Gardasee, Pinienkerne, Brotcrunch und Rosinen." },
-      "ilNostroMare": { "name": "Il Nostro Mare", "description": "Spaghetti, gelbe und rote Datterini-Tomaten und Meeresfrüchte." },
-      "cozzePatateBaccala": { "name": "Cozze, Patate e Baccalà", "description": "Grüne Paccheri, Limette, Kartoffel-Muschel-Creme, Kabeljau und knusprige Haut." },
-      "ilPolpoENero": { "name": "Il Polpo è Nero", "description": "Gegrillter Oktopus, Burrata, confierte Datterini und Petersiliensauce." },
-      "duettoTrentino": { "name": "Duetto Trentino", "description": "Eine Auswahl regionaler Wurst- und Käsespezialitäten." },
-      "terraDEstate": { "name": "Terra d'Estate", "description": "48 Stunden mariniertes Rindercarpaccio, Gorgonzola-Mousse und Polenta aus Storo." },
-      "blackAngus": { "name": "Black Angus", "description": "Roastbeef, Safran-Rosmarin-Kartoffelcreme, gegrillte Pilze." },
-      "reginaMargherita": { "name": "Regina Margherita", "description": "San Marzano, Büffelmozzarella, Parmaschinken und Basilikum." },
-      "tonnetto": { "name": "Tonnetto", "description": "San Marzano, Fior di latte, kurz gebratener Thunfisch und geschmorte Zwiebeln." },
-      "diavola": { "name": "Diavola", "description": "San Marzano D.O.P., Mozzarella Fior di Latte und scharfe Levoni-Salami." }
+      "tunatartare": {
+        "name": "Thunfisch-Tatar",
+        "description": "Roher Thunfisch mit Piquillo-Paprika, Timut-Pfeffer, Limette und cremiger Mozzarella."
+      },
+      "lagoAffumicato": {
+        "name": "Geräucherter Saibling",
+        "description": "Geräucherter Gardasee-Saibling mit Mandarine."
+      },
+      "saporeDiLago": {
+        "name": "Spaghetti mit Seefisch-Ragout",
+        "description": "Spaghetti alla chitarra mit Seefisch-Ragout, milder Knoblauchsauce und Basilikum."
+      },
+      "ilNostroMare": {
+        "name": "Fagottini mit Zackenbarsch & Garnelen",
+        "description": "Hausgemachte Fagottini mit Zackenbarsch und Garnelen, serviert mit ihrer Bisque."
+      },
+      "cozzePatateBaccala": {
+        "name": "Spaghetti mit Thunfisch & Bottarga",
+        "description": "Spaghetti mit Knoblauch, Olivenöl, Chili, frischem Thunfisch, Kirschtomaten und Thunfisch-Bottarga."
+      },
+      "ilPolpoENero": {
+        "name": "Fisch-Involtini",
+        "description": "Fisch-Involtini mit knuspriger Kruste und mediterranen Aromen."
+      },
+      "duettoTrentino": {
+        "name": "Fassona-Rindertatar",
+        "description": "Tatar vom piemontesischen Fassona-Rind mit Trüffel, Grana und Balsamico-Perlen."
+      },
+      "terraDEstate": {
+        "name": "Tagliata vom Rind",
+        "description": "Geschnittenes Rindfleisch mit Rucola, Grana und Rosmarinkartoffeln."
+      },
+      "blackAngus": {
+        "name": "Schweine-Tomahawk",
+        "description": "300 g Schweine-Tomahawk mit knuspriger Panko-Kruste, Kartoffelsalat, Tropea-Zwiebel und Alpenjoghurt."
+      },
+      "reginaMargherita": {
+        "name": "Tagliatelle mit vier Tomaten",
+        "description": "Tagliatelle mit vier Tomatensorten, Burrata-Stracciatella und Basilikumpesto."
+      },
+      "tonnetto": {
+        "name": "Forelle mit Zucchini",
+        "description": "Forelle mit Zucchini alla scapece."
+      },
+      "diavola": {
+        "name": "Die Frische von Limone",
+        "description": "Ein feines Zitronendessert, inspiriert von den Aromen und der Frische von Limone sul Garda."
+      }
     }
   },
 
   "menu": {
-    "eyebrow": "Menü-Favoriten",
+    "eyebrow": "Unsere Menüfavoriten",
     "title": "Den Moment genießen",
     "cta": "Menü entdecken",
-    "note": "Die Karte ändert sich mit den Jahreszeiten und dem Marktangebot.",
+    "note": "Das Menü wechselt mit den Jahreszeiten und je nach Verfügbarkeit der Zutaten.",
     "items": {
       "01": {
-        "name": "Terra d'Estate",
-        "description": "48 Stunden mariniertes Rindercarpaccio, Gorgonzola-Mousse und Polenta aus Storo.",
-        "price": "€19"
+        "name": "Fassona-Rindertatar",
+        "description": "Tatar vom piemontesischen Fassona-Rind mit Trüffel, Grana und Balsamico-Perlen.",
+        "price": "~€22"
       },
       "02": {
-        "name": "Lago Affumicato",
-        "description": "Saibling aus dem Gardasee, Polenta aus Storo und ein Hauch Kirschholzrauch.",
-        "price": "€24"
+        "name": "Fagottini mit Zackenbarsch & Garnelen",
+        "description": "Hausgemachte Fagottini mit Zackenbarsch und Garnelen, serviert mit ihrer Bisque.",
+        "price": "~€20"
       },
       "03": {
-        "name": "Sapore di Lago",
-        "description": "Spaghettoni, Sardinen aus dem Gardasee, Pinienkerne, Brotcrunch und Rosinen.",
-        "price": "€22"
+        "name": "Spaghetti mit frischem Thunfisch & Bottarga",
+        "description": "Felicetti-Spaghetti mit Knoblauch, Olivenöl, Chili, Kirschtomaten in Meerwasser, frischem Thunfisch und Thunfisch-Bottarga.",
+        "price": "~€18"
       },
       "04": {
-        "name": "Black Angus",
-        "description": "Roastbeef, Safran-Rosmarin-Kartoffelcreme, gegrillte Pilze.",
-        "price": "€32"
+        "name": "Tagliata di Manzo",
+        "description": "Aufgeschnittenes Rindfleisch mit Rucola, Grana und Rosmarinkartoffeln.",
+        "price": "~€26"
       },
       "05": {
-        "name": "Regina Margherita",
-        "description": "San Marzano, Büffelmozzarella, Parmaschinken und Basilikum.",
-        "price": "€16"
+        "name": "Die Frische von Limone",
+        "description": "Das hausgemachte Zitronendessert, inspiriert von der Frische von Limone sul Garda.",
+        "price": "~€9"
       }
     }
   },
 
   "place": {
     "eyebrow": "Der Ort",
-    "title": "Geschichte über dem See",
-    "description": "Ein historischer Ort, verwandelt in ein zeitgemäßes Erlebnis.",
-    "cta": "Terrasse entdecken"
+    "title": "Ein Geschmack von Limone",
+    "description": "Ein einladender Ort im Herzen von Limone sul Garda, wo italienische Küche auf die zeitlose Atmosphäre des Sees trifft.",
+    "cta": "Den Ort entdecken"
   },
 
   "events": {
-    "eyebrow": "Veranstaltungen",
-    "title": "Machen Sie Ihren Moment unvergesslich",
-    "description": "Feiern, private Dinner und besondere Erlebnisse.",
+    "eyebrow": "Events",
+    "title": "Machen Sie es zu Ihrem Moment",
+    "description": "Romantische Dinner, Feiern und besondere Momente im Herzen von Limone sul Garda.",
     "cta": "Events entdecken",
     "types": {
       "privateDinners": "Private Dinner",
       "celebrations": "Feiern",
-      "aperitivo": "Exklusiver Aperitivo"
+      "aperitivo": "Besonderer Aperitivo"
     }
   },
 
